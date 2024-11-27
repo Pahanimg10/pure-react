@@ -1,1 +1,1 @@
-# pure-react
+# Pure React
